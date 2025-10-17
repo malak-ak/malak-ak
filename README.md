@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me 💗:
 🎓 Full Stack Development student <br> 💻 Focused on modern web technologies <br>🌱 Constantly learning and improving
 
 
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=malak-ak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️fav Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
